@@ -15,7 +15,7 @@
 
 * In 'Companies That Pay Below Prevailing Wage Per Year', we identified companies that pay less than prevailing wage. We learnt how to write differnt calculation types which makes filtering more efficient.We write a calculation which counts the difference between prevailing wage and paid wage per year.
 
-* In 'Salaries Adjusted For Cost Of Living', we experienced blending and aggregation-level calculations. We blended the price parity (price_parity.xlxs) data with salary data (salary_data_states_corrected (1)) and adjusted data-related salaries for cost of living.
+* In 'Salaries Adjusted For Cost Of Living', we experienced _blending and aggregation-level calculations_. We blended the price parity (price_parity.xlxs) data with salary data (salary_data_states_corrected (1)) and adjusted data-related salaries for cost of living.
 
 * In 'Top States For Data Jobs' 
 
