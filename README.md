@@ -2,7 +2,7 @@
 
 __Tableau__ is a data visualization tool that allows to make visualizations of the data in seconds. It turns the data into insights that drive action. It is also famous for making __dashboards__ which give you at a glance views of key business metrics or indicators real time. It can help anyone see and understand their data. The __stories__ are also quite helpful in presenting your data to your audience in a sequence that makes it most likely that they will arrive at the same conclusion you did when they look at your data.
 
-In this project, we are analyzing and visualizing the salary dataset.The description of the data set is mentioned in the file 'Salary_Dataset_Description'. Following are different tableau worksheets with different type of visualizations performed on the dataset:
+In this project, we are analyzing and visualizing the salary dataset. The description of the data set is mentioned in the file _'Salary_Dataset_Description'_.The Excel files used for the visualization are _price_parity.xlxs_ and _salary_data_states_corrected (1)_. Following are brief description of different tableau worksheets with different type of visualizations performed on the dataset:
 
 * In _'Median Wage Per Subgroup'_ file, we created a basic __bar chart__ to see how median paid wages per year varies for different job subgroups.
 
@@ -18,7 +18,7 @@ In this project, we are analyzing and visualizing the salary dataset.The descrip
 
 * In _'Companies That Pay Below Prevailing Wage Per Year'_, we identified companies that pay less than prevailing wage. We learnt how to write differnt __calculation types__ which makes filtering more efficient.We write a calculation which counts the difference between prevailing wage and paid wage per year.
 
-* In _'Salaries Adjusted For Cost Of Living'_, we experienced __blending and aggregation-level calculations__. We blended the price parity (price_parity.xlxs) data with salary data (salary_data_states_corrected (1)) and adjusted data-related salaries for cost of living.
+* In _'Salaries Adjusted For Cost Of Living'_, we experienced __blending and aggregation-level calculations__. We blended the price parity (_price_parity.xlxs_) data with salary data (_salary_data_states_corrected (1)_) and adjusted data-related salaries for cost of living.
 
 * In _'Top States For Data Jobs'_, we learnt how to use __table calculations__ to figure out which states across the country have the highest salaries for different data related jobs, once you take cost of living into account.
 
